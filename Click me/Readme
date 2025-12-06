@@ -1,0 +1,15 @@
+## 📑 Table of Contents
+
+1. **Introduction**
+2. **Importing Libraries**
+3. **Loading the Dataset**
+4. **Initial Exploration (EDA)/Analyzing raw data**
+5. **Data Cleaning**
+6. **Handling Missing Values**
+7. **Imputation Techniques (Simple, RF, KNN, Regression)**
+8. **Outlier Detection (Z-Score, IQR)**
+9. **Outlier Visualization**
+10. **Removing / Separating Outliers**
+11. **Exporting Clean & Outlier Data**
+12. **Insights**
+13. **Conclusion**
